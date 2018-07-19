@@ -9,7 +9,7 @@ apply plugin: 'com.getkeepsafe.dexcount'
 dependencies {
     implementation 'com.github.nicolas-raoul:Quadtree:ac16ea8035bf07'
     implementation 'fr.avianey.com.viewpagerindicator:library:2.4.1.1@aar'
-    implementation 'com.github.nicolas-raoul:java-http-fluent:a7288f7553'
+    implementation 'com.github.nicolas-raoul:java-http-fluent:6f022b0'
     implementation 'com.github.chrisbanes:PhotoView:2.0.0'
     implementation 'ch.acra:acra:4.9.2'
     implementation('org.mediawiki:api:1.3') {
